@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Alexander Timoce</h1>
 <h3 align="center">A developer from Montreal</h3>
-<h3 align="center">I code Backend/Frontend and Mobile Applications and Websites</h3>
+<h3 align="center">I code Backend/Frontend, Mobile Applications and Websites</h3>
 
 <p align="left">
 </p>
