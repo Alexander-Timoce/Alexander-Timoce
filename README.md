@@ -34,9 +34,6 @@ I code Backend/Frontend, Mobile Applications and Websites.I enjoy working with a
 
 Feel free to explore my repositories and projects. I'm always open to collaborating on new projects or learning about interesting technologies!
 
-You can reach me at:  
-[Your Email] | [Your LinkedIn Profile] | [Your Website (if applicable)]
-
 ---
 
 Thanks for visiting my profile!
